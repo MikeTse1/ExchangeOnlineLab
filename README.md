@@ -40,8 +40,8 @@ Tasks completed:
 - Assign members 
   
 Skills demonstrated:
-• 	Group and distribution list management
-• 	Membership configuration
+- Group and distribution list management
+-	Membership configuration
 
 🔍 4. Message Trace
 Tasks completed:
